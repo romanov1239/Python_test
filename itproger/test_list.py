@@ -1,4 +1,5 @@
-def name (name):
+def name (names):
     """<UNK> <UNK> <UNK> <UNK>."""
-    print(name+' hello')
+    print(names +' hello')
 name('nnn')
+name('ddd1')
